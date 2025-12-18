@@ -28,31 +28,30 @@ Aspiring Frontend Developer with a solid foundation in web technologies, seeking
 
 ## 📂 Featured Projects
 
-### **Portfolio Website** - [Live Demo](#) | [Source Code](#)
-- Modern portfolio built with HTML, CSS, and JavaScript
+### **Portfolio Website** - [Live Demo](https://aparnavv-portfolio.netlify.app/) | [Source Code](https://github.com/aparnavv373/My-portfolio)
+- Modern portfolio built with React,Tailwind CSS
 - Fully responsive design with smooth animations
 - Showcases projects and technical skills
 
-### **Recipe Finder App** - [Live Demo](#) | [Source Code](#)
+### **Recipe Finder App** - [Live Demo](https://fantastic-elf-bc8940.netlify.app/) | [Source Code](https://github.com/aparnavv373/Recipe-finder)
 - Interactive application for discovering recipes
 - Utilizes external API for recipe data
 - Features search, filtering, and favorite functionality
 
-### **Task Manager** - [Live Demo](#) | [Source Code](#)
+### **Task Manager** - [Live Demo](https://ubiquitous-alpaca-e3eeee.netlify.app/) | [Source Code](https://github.com/aparnavv373/Task-manager)
 - Productivity application for managing daily tasks
 - Implements CRUD operations and local storage
 - Clean, intuitive UI with drag-and-drop capabilities
 
 ## 📫 Let's Connect
-- **✉️ Email:** ivyv@gmail.com
-- **💼 LinkedIn:** [Ivy](https://linkedin.com/in/your-profile) *(Update with your actual LinkedIn URL)*
-- **🐙 GitHub:** [@shadow](https://github.com/your-username) *(Update with your actual GitHub username)*
+- **✉️ Email:** aparnavv836@gmail.com
+- **💼 LinkedIn:** [aparna](https://www.linkedin.com/in/aparna-vv-1788b526b) 
+- **🐙 GitHub:** [@aparna](https://github.com/aparnavv373) 
 
 ## 📊 GitHub Stats
-![Aparna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+![Aparna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aparnavv373&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aparnavv373&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
 
----
 
-⚡ **Fun Fact:** I believe good code is like a good joke – it needs no explanation!
+
