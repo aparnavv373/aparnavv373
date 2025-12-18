@@ -46,7 +46,7 @@ Aspiring Frontend Developer with a solid foundation in web technologies, seeking
 ## 📫 Let's Connect
 - **✉️ Email:** aparnavv836@gmail.com
 - **💼 LinkedIn:** [aparna](https://www.linkedin.com/in/aparna-vv-1788b526b) 
-- **🐙 GitHub:** [@aparna](https://github.com/aparnavv373) 
+- **🐙 GitHub:** [aparna](https://github.com/aparnavv373) 
 
 ## 📊 GitHub Stats
 ![Aparna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aparnavv373&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
