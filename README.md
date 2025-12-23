@@ -28,17 +28,17 @@ Aspiring Frontend Developer with a solid foundation in web technologies, seeking
 
 ## 📂 Featured Projects
 
-### **Portfolio Website** - [Live Demo](https://aparnavv-portfolio.netlify.app/) | [Source Code](https://github.com/aparnavv373/My-portfolio)
+### **Portfolio Website** - [https://my-portfolio-gamma-murex.vercel.app/) | [Source Code](https://github.com/aparnavv373/My-portfolio)
 - Modern portfolio built with React,Tailwind CSS
 - Fully responsive design with smooth animations
 - Showcases projects and technical skills
 
-### **Recipe Finder App** - [Live Demo](https://fantastic-elf-bc8940.netlify.app/) | [Source Code](https://github.com/aparnavv373/Recipe-finder)
+### **Recipe Finder App** - [Live Demo](https://recipe-finder-vert-zeta.vercel.app/) | [Source Code](https://github.com/aparnavv373/Recipe-finder)
 - Interactive application for discovering recipes
 - Utilizes external API for recipe data
 - Features search, filtering, and favorite functionality
 
-### **Task Manager** - [Live Demo](https://ubiquitous-alpaca-e3eeee.netlify.app/) | [Source Code](https://github.com/aparnavv373/Task-manager)
+### **Task Manager** - [Live Demo](https://aparnavv373.github.io/Task-manager/) | [Source Code](https://github.com/aparnavv373/Task-manager)
 - Productivity application for managing daily tasks
 - Implements CRUD operations and local storage
 - Clean, intuitive UI with drag-and-drop capabilities
