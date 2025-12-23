@@ -28,7 +28,7 @@ Aspiring Frontend Developer with a solid foundation in web technologies, seeking
 
 ## 📂 Featured Projects
 
-### **Portfolio Website** - [https://my-portfolio-gamma-murex.vercel.app/) | [Source Code](https://github.com/aparnavv373/My-portfolio)
+### **Portfolio Website** - [Live Demo](https://my-portfolio-gamma-murex.vercel.app/) | [Source Code](https://github.com/aparnavv373/My-portfolio)
 - Modern portfolio built with React,Tailwind CSS
 - Fully responsive design with smooth animations
 - Showcases projects and technical skills
