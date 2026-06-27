@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer · React · FastAPI · Python</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/aparna-vv-1788b526b">
+  <a href="https://www.linkedin.com/in/aparna-vv-1788b526b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
