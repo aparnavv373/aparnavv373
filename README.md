@@ -79,8 +79,8 @@
 
 ### 📜 Certifications
 
-- 🏅 **Introduction to Internet of Things** — NPTEL 
-- 🐍 **Python** — Internship Certification
+- 🏅 **Introduction to Internet of Things (NPTEL)** - [View Certificate](https://drive.google.com/file/d/12lKY-AFiZUySB-aAYJT8lzDcxWLxGZNi/view?usp=drivesdk)
+- 🐍 **Python Internship** - [View Certificate](https://drive.google.com/file/d/12spaM5m-ztXy2k8FDyKKFVmADnhzn-Ma/view?usp=drivesdk)
 
 ---
 
