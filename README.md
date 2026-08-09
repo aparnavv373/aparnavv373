@@ -84,20 +84,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aparnavv373&show_icons=true&theme=default&hide_border=true"
-    width="47%"
-  />
-  &nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparnavv373&layout=compact&hide_border=true"
-    width="47%"
-  />
-</p>
----
 
 
 
